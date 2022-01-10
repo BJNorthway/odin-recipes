@@ -1,0 +1,16 @@
+#thailand {
+    color: red;
+}
+
+img {
+    max-width: 50%;
+    height: auto;
+    padding: 20px;
+    border: 20px solid black;
+    margin: 20px;
+    
+}
+
+p {
+    color: red;
+}
